@@ -1,7 +1,7 @@
 # dBnB
 Decentralized BnB (initial release proof-of-concept)
 
-This is a decentralized BnB (Bed and Breakfast) DApp. This allows direct payment transaction using cryptocurrency (ETH) to settle rentals. 
+This is a decentralized BnB (Bed and Breakfast) DApp smart contract. This allows direct payment transaction using cryptocurrency (ETH) to settle rentals. 
 
 There are 2 parties involved:
 
